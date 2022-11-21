@@ -1,49 +1,27 @@
-세미프로젝트 5조
+![image](https://user-images.githubusercontent.com/87286684/202957343-72709ea5-9e34-4011-8da2-e9f1b9602627.png)
+![image](https://user-images.githubusercontent.com/87286684/202957400-cbb69609-e75d-4cbf-8720-264b0682decb.png)
+![image](https://user-images.githubusercontent.com/87286684/202957457-6a51272b-2532-419b-9a3e-4a22e30e889f.png)
+![image](https://user-images.githubusercontent.com/87286684/202959433-48133da3-e53f-4e9b-85d5-ca2d2c4a569b.png)
 
-1. [페이지 구성] 
+<h2>구성원 및 역할</h2>
+<ul> 
+  <li>엄요한 : 화면설계, DB설계, 기능구현, git관리</li>
+  <li><b>임종욱 : 화면설계, DB설계, 기능구현</b></li>
+  <li>김성민 : 화면설계, DB설계, 기능구현</li>
+  <li>윤예지 : 화면설계, DB설계, 기능구현</li>
+</ul>
+<br><br>
+<h2>프로젝트 확인하기</h2>
+<ul>
+  <li><b>담당 파트</b> : 시작 메인 페이지, 헬스 센터 등록·수정·삭제, 중고거래, 관리자페이지</li>
+  <li>Youtube를 통해 시연영상을 확인할 수 있습니다.</li>
+  <li><a href="https://youtu.be/bjNPvN22Aug">바로가기</a></li>
+</ul>
+<br><br>
+<img width="1015" src="https://user-images.githubusercontent.com/87286684/202960077-21b49219-505e-4f72-83f8-a62bf1e3d55d.png">
+<hr>
+<img width="1015" src="https://user-images.githubusercontent.com/87286684/202960256-7a8343db-4b07-4b3d-872b-e9d66f4bd300.png">
+<hr>
 
-기간 : 09/17 ~ 09/29
 
-구글 문서
-- https://docs.google.com/document/d/1SmCyvdT9eS-20aYuNNAFaTrrOsHqJDvglvLkjTcbZ9s/edit?usp=sharing
 
-2. [화면설계]
-
-기간 : 09/29 ~ 10/08
-
-구글 문서
--https://docs.google.com/presentation/d/1u8XdinGANhZ9pr9Wk95EaESlVytija-VZaIoQtoNFiM/edit#slide=id.p
-
-엄요한 (Q&A)
--https://ovenapp.io/view/mQgkKZQqhF1hCclCZaCJ57cwP7Xi1nx4/
-
-임종욱 (시작,메인 화면 / 로그인 화면)
-- https://ovenapp.io/view/FDfvsI5pkChAZFYPraBLI7Cpg77OIRke/
-
-박지영 (중고거래 목록, 글 등록)
-- https://ovenapp.io/view/smfKzKxkLmxQBqBEKG72pZHa336b2JNC/
-
-김성민 (사업장 등록 / 마이 페이지)
-- https://ovenapp.io/view/YO4InRqeyHOG2KFCG9oUnlpb87YGZAjh/
-
-윤예지 (비밀번호,아이디 찾기 / 회원가입 )
-- https://ovenapp.io/project/pEBHAg2Unnokj6UTBHhpB0h6ahqARTCm/#K96Ag
-
-노경언 (센터 목록, 글 등록)
-- https://ovenapp.io/view/t2DOsmfS9tqPX7rsMiafdI99O57Ii1pu/
-
-3. [요구사항 명세서]
-
-기간 : 09/29 ~ 10/06
-
-4. [DB 설계]
-
-기간 : 10/13 ~
-
-구글문서
--https://docs.google.com/spreadsheets/d/1dsc-n8YlvYd3fDKXjh5KfGsOjbf6zfMRSDxijuV6aPo/edit#gid=1690194023
-
-5.[발표 ppt]
-
-구글문서
--https://docs.google.com/presentation/d/12Dt_eCihaTNh3ASJ6dGCw_TwNLpbCcvAuAY2rbdiDz8/edit?usp=sharing
