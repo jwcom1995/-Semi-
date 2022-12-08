@@ -14,7 +14,7 @@
 <h2>프로젝트 확인하기</h2>
 <ul>
   <li><b>담당 파트</b> : 시작 메인 페이지, 헬스 센터 등록·수정·삭제, 중고거래, 관리자페이지</li>
-  <li><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=flat&logo=HTML5&logoColor=white"/>Youtube를 통해 시연영상을 확인할 수 있습니다. 07:00부터</li>
+  <li><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=flat&logo=Youtube&logoColor=white"/>를 통해 시연영상을 확인할 수 있습니다. <b>07:00</b>부터</li>
   <li><a href="https://youtu.be/bjNPvN22Aug">바로가기</a></li>
 </ul>
 <br><br>
